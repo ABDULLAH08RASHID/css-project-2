@@ -1,0 +1,177 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.container {
+    background: #FFC436;
+    background-image: linear-gradient(to top, #faf874, #F0DE36);
+    max-width: 1440px;
+    padding-bottom: 1px;
+}
+
+.front-page {
+    background: #FFC436;
+    background-image: linear-gradient(to bottom, #faf874, #F0DE36);   
+    margin-bottom: 80px;
+}
+
+.cactus {
+    height: 500px;
+    position: relative;
+}
+
+.cactus2 {
+    height: 250px;
+    position: relative;
+    margin-left: 40%;
+    margin-top: 20%;
+    margin-bottom: 2%;
+}
+
+.heading {
+    color: rgb(246, 238, 238);
+    font-size: 5rem;
+    position: absolute;
+    top: 42%;
+    transform: translate(-50%, -50%);
+    margin-left: 50%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+
+.title-page {
+    margin-bottom: 100px;
+}
+
+.title {
+    font-family: 'Phudu', cursive;
+    font-size: 3rem;
+    padding-bottom: 20px;
+}
+
+.title2 {
+    font-family: 'Phudu', cursive;
+    font-weight: 400;
+    font-size: 1.2rem;
+    width: 50%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.more {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+}
+
+.method1 {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    width: 50%;
+    text-align: center;
+    margin: 100px auto 0px auto;
+}
+
+.way1{
+    font-family: 'Ubuntu', sans-serif;  
+}
+
+.way1-pic {
+    height: 200px;
+    padding-right: 20px;
+    width: 300px;
+}
+
+.way1-p {
+    font-weight: 400;
+}
+
+hr {
+    border: dotted rgb(208, 196, 191) 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 80px auto;
+}
+
+.method2 {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    width: 50%;
+    text-align: center;
+    margin: 100px auto 100px auto;
+}
+
+.way2{
+    font-family: 'Ubuntu', sans-serif;  
+}
+
+.way2-pic {
+    height: 200px;
+    padding-right: 20px;
+}
+
+.way2-p {
+    font-weight: 400;
+}
+
+.container2{
+    margin-bottom: 100px;
+}
+.logo {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding-bottom: 20px;
+}
+
+.para {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+    background-color: rgb(248, 248, 248);
+    color: black;
+    font-size: 15px;
+    padding: 7px;
+    border-radius: 8px;
+}
+
+.nav {
+    padding-right: 50px;
+}
+
+#bob {
+    background: #FFC436;
+    background-image: linear-gradient(to top, #faf874, #F0DE36);    
+}
+
+#bob2 {
+    width: 60%;
+    margin-left: 80px;
+}
+
+#bob3 {
+    margin-left: 200px;
+}
+
+#bob4 {
+    width: 250px;
+}
+
+.bott {
+    padding-left: 20px;
+}
+
+
+
+
+
+
